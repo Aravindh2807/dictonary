@@ -32,12 +32,9 @@ Create the necessary components for your dictionary platform:
 
 ## Screenshorts
 
-    Dictionary
+   ![Screenshot (98)](https://github.com/Aravindh2807/dictonary/assets/140500814/e526afc1-c4b8-4973-ba76-aebdf3495329)
 
-    ![Screenshot (98)](https://github.com/Aravindh2807/dictonary/assets/140500814/255c9510-265b-43c0-b973-7eceaa2df8ca)
+   ![Screenshot (97)](https://github.com/Aravindh2807/dictonary/assets/140500814/3fa9c159-2dc8-4a50-accf-d94d6d8bf6c7)
 
-   
-    Word Explaination
-    
-    ![Screenshot (97)](https://github.com/Aravindh2807/dictonary/assets/140500814/75ab4032-a02f-4f93-a203-a3940d90bcaa)
+
   
