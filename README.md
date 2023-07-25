@@ -34,8 +34,10 @@ Create the necessary components for your dictionary platform:
 
     Dictionary
 
-   <img src= "https://github-production-user-asset-6210df.s3.amazonaws.com/103558082/255392524-4335819e-d9b7-4d31-947c-ee0e042d6585.png">
+    (98)](https://github.com/Aravindh2807/dictonary/assets/140500814/255c9510-265b-43c0-b973-7eceaa2df8ca)
+
+   
+    Word Explaination![Screenshot 
     
-    Word Explaination
-    
-   <img src= "https://github-production-user-asset-6210df.s3.amazonaws.com/103558082/255392540-7e951a3b-e36c-4405-b4d1-725537d73567.png">
+    ![Screenshot (97)](https://github.com/Aravindh2807/dictonary/assets/140500814/75ab4032-a02f-4f93-a203-a3940d90bcaa)
+  
